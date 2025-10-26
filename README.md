@@ -1,6 +1,6 @@
 # Drawing Canvas App — Group 17 
 
-**CONTRIBUTOR - Ngumimi Bethel Tuse** 
+**CONTRIBUTORS - Ngumimi Bethel Tuse, James Adejo Ejiga, Success Oluwafemi Ali, Bernard Worthy, Bukar Isa Abba** 
 
 ---
 
