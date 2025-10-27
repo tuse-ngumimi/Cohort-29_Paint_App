@@ -1,6 +1,6 @@
 """
 File Operations Module
-Contributor: Success Oluwafemi Ali
+Contributor: James Adejo Ejiga
 
 This module handles file operations and history management.
 Responsibilities:
