@@ -1,6 +1,6 @@
 """
 Drawing Tools Module
-Contributor: Person 2
+Contributor: Bernard Worthy
 
 This module handles all drawing operations and canvas interactions.
 Responsibilities:
