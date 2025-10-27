@@ -1,7 +1,6 @@
 """
 UI Components Module
-Contributor: Person 1
-
+Contributor: Success Oluwafemi Ali
 This module handles all UI layout, toolbar creation, and widget management.
 Responsibilities:
 - Build toolbar with tool buttons
