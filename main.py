@@ -1,6 +1,7 @@
 """
 Drawing Canvas App 
 Project By: Group 17 (Cohort 19 Python Advanced)
+Contributor: Ngumimi Bethel Tuse
 
 This is the main entry point that initializes and runs the application.
 
